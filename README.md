@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Jérémy
+# 👋 Hey there, I’m Jérémy
 
-**Self-taught developer specializing in C++, SQL, and web development.**  
-Adaptable and always looking to learn new technologies.
+I’m a self-taught developer focused on C++, SQL, and web development.  
+I live in France, just a stone’s throw from the Swiss border, which gives me a unique perspective bridging two cultures and markets.  
+I’m always eager to pick up new skills !
 
 ---
 
-## 🚀 About Me
-- 💻 Experience in **C++** for performance-critical applications.
-- 🗄️ Skilled in **SQL**.
-- 🌐 Proficient in **front-end & back-end web development**
-- 🎯 Passionate about building **efficient, reliable, and well-structured applications**.
-- 📚 Always improving my skills and exploring new tools.
+## 🚀 About Me  
+- 💻 I’ve built solid experience with C++ for projects where performance really matters.  
+- 🗄️ I’m comfortable working with SQL.
+- 🌐 I’m skilled in both front-end and back-end web development.  
+- 🎯 My goal is to create software that’s not only effective but also well-designed and maintainable.  
+- 📚 I’m constantly learning and exploring new tools and technologies.
 
 ---
 
@@ -37,6 +38,8 @@ Adaptable and always looking to learn new technologies.
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-006400?style=for-the-badge&logo=datagrip&logoColor=white)
 
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -45,33 +48,35 @@ Adaptable and always looking to learn new technologies.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Some Recent Projects
 
-### 🛡️ **Massive Multiplayer Game Emulator and Services Development**
-*C++ | SQL | Scripting | Java | Angular | Performance optimization*  
-Developed custom features, server-side scripting, and optimized databases for a large-scale multiplayer game environment. Enhanced web and Discord-connected services for seamless integration with the game server.
+### 🛡️ **Massive Multiplayer Game Emulator and Services Development**  
+*C++ | SQL | Scripting | Performance Optimization | Java | Angular*  
+Custom features, server-side scripting, and database tuning for a large-scale online game. Also working on web and Discord-connected services to create smooth integration with the game server.
 
----
-
-### 🌐 **Web Application – Intranet**
-*Next.js | MongoDB | Prisma | Typescript | Responsive Design*  
-A professional intranet platform for managing internal processes, with user authentication and data dashboards.
-
-🔗 [View Repository](#) - *A mock of the application is under development*
+🔗 [View Repository](#)
 
 ---
 
-### 🌐 **Web Application – Pricesheet Generator**
+### 🌐 **Web Application – Intranet**  
+*Next.js | MongoDB | Prisma | TypeScript | Responsive Design*  
+A professional intranet platform designed to handle internal processes, complete with user authentication and interactive dashboards.
+
+🔗 [View Repository](#) *A mock of the application will be available soon*
+
+---
+
+### 🌐 **Web Application – Price Sheet Generator**  
 *React.js | MongoDB | Express | Node.js | Responsive Design*  
-A tool to automatically generate price sheets with data retrieved directly from the store ERP.
+A dedicated tool that automatically generates price sheets by pulling data directly from the store’s ERP system.
 
-🔗 [View Repository](#) *A mock of the application is under development*
-
----
-
-## 📫 Contact
-- 📧 **kleinpeter.jeremy@gmail.com**
+🔗 [View Repository](#) *A mock of the application will be available soon*
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out for collaboration or freelance opportunities.
+## 📫 Contact  
+Feel free to reach out by email: kleinpeter.jeremy@gmail.com  
+
+---
+
+Thanks for stopping by! I’m always open to chatting about projects, collaborations, or freelance work.
