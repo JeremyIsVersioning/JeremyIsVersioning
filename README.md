@@ -54,7 +54,7 @@ I’m always eager to pick up new skills !
 *C++ | SQL | Scripting | Performance Optimization | Java | Angular*  
 Custom features, server-side scripting, and database tuning for a large-scale online game. Also working on web and Discord-connected services to create smooth integration with the game server.
 
-![Way of Elendil](https://way-of-elendil.fr/)
+[Way of Elendil](https://way-of-elendil.fr/)
 
 ---
 
