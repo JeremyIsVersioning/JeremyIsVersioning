@@ -50,29 +50,9 @@ I’m always eager to pick up new skills !
 
 ## 📂 Some Recent Projects
 
-### 🌐 **Web Application – Musical Platform**  
-*React.js | Express | MySQL | TypeScript | Responsive Design*  
-A platform used by musical artists allowing them to improve their visibility and sell their products.
-
-[Musiconline](https://www.musiconline-france.art/) 
-
----
-
 ### 🛡️ **Massive Multiplayer Game Emulator and Services Development**  
 *C++ | SQL | Scripting | Performance Optimization | Java | Angular*  
 Custom features, server-side scripting, and database tuning for a large-scale online game. Also working on web and Discord-connected services to create smooth integration with the game server.
-
----
-
-### 🌐 **Web Application – Intranet**  
-*Next.js | MongoDB | Prisma | TypeScript | Responsive Design*  
-A professional intranet platform designed to handle internal processes, complete with user authentication and interactive dashboards.
-
----
-
-### 🌐 **Web Application – Price Sheet Generator**  
-*React.js | MongoDB | Express | Node.js | Responsive Design*  
-A dedicated tool that automatically generates price sheets by pulling data directly from the store’s ERP system.
 
 ---
 
