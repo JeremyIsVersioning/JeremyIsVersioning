@@ -50,11 +50,17 @@ I’m always eager to pick up new skills !
 
 ## 📂 Some Recent Projects
 
+### 🌐 **Web Application – Musical Platform**  
+*React.js | Express | MySQL | TypeScript | Responsive Design*  
+A platform used by musical artists allowing them to improve their visibility and sell their products.
+
+[Musiconline](https://www.musiconline-france.art/) 
+
+---
+
 ### 🛡️ **Massive Multiplayer Game Emulator and Services Development**  
 *C++ | SQL | Scripting | Performance Optimization | Java | Angular*  
 Custom features, server-side scripting, and database tuning for a large-scale online game. Also working on web and Discord-connected services to create smooth integration with the game server.
-
-[Way of Elendil](https://way-of-elendil.fr/)
 
 ---
 
@@ -62,20 +68,16 @@ Custom features, server-side scripting, and database tuning for a large-scale on
 *Next.js | MongoDB | Prisma | TypeScript | Responsive Design*  
 A professional intranet platform designed to handle internal processes, complete with user authentication and interactive dashboards.
 
-🔗 [View Repository](#) *A mock of the application will be available soon*
-
 ---
 
 ### 🌐 **Web Application – Price Sheet Generator**  
 *React.js | MongoDB | Express | Node.js | Responsive Design*  
 A dedicated tool that automatically generates price sheets by pulling data directly from the store’s ERP system.
 
-🔗 [View Repository](#) *A mock of the application will be available soon*
-
 ---
 
 ## 📫 Contact  
-Feel free to reach out by email: kleinpeter.jeremy@gmail.com  
+Feel free to reach out by email: solutionsjika@gmail.com  
 
 ---
 
