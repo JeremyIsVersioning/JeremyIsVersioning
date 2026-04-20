@@ -57,7 +57,7 @@ Custom features, server-side scripting, and database tuning for a large-scale on
 ---
 
 ## 📫 Contact  
-Feel free to reach out by email: solutionsjika@gmail.com  
+Feel free to reach out by email: kleinpeter.jeremy@gmail.com  
 
 ---
 
